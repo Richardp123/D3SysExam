@@ -1,0 +1,6 @@
+BACKUP
+BACKUP.zip
+ExamGithub
+ExamGithub.zip
+desktop.txt
+githomework.docx.webloc
